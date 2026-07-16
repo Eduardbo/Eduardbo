@@ -1,43 +1,51 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 # Hi there 👋, I'm Eduardo Braga
 
-🎓 Computer Science Student | 🔐 Cybersecurity & Infrastructure enthusiast | 🐧 Linux user and automation enthusiast
 
-## 🚀 About me
+###
+🎓 Computer Science student focused on **Cybersecurity, Networking and Infrastructure**.
 
-I'm a Computer Science student focused on **Cybersecurity, Networking and System Administration**.
+Currently learning and building projects with:
 
-Currently developing my skills in:
+Linux | Bash | PowerShell | JavaScript | Networking | Information Security
 
-- Linux administration
-- Bash scripting and automation
-- PowerShell automation
-- Computer networks
-- Information Security fundamentals
-- Web development with JavaScript
+<img data-importer="snake" src="https://raw.githubusercontent.com/eduardbo/eduardbo/snake-output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Technologies & Tools
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Eduardo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Eduardo-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Eduardo-PowerShell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg">
+  <img align="center" alt="Eduardo-KaliLinux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg">
+  <img align="center" alt="Eduardo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## 📚 Currently learning
+## 📚 Learning
 
-- Cybersecurity
-- Infrastructure security
-- Network defense
-- System hardening
-- Cloud fundamentals
+Cybersecurity | System Administration | Network Defense | Cloud Fundamentals
 
-## 🎯 Goals
+##
 
-Build a career in **Cybersecurity and Infrastructure**, developing solutions focused on automation, security and reliable systems.
 
----
 
-📫 Feel free to explore my repositories and follow my learning journey.
+
+## 📫 Contact
+
+<div>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+  <a href="SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
