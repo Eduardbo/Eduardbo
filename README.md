@@ -52,6 +52,7 @@ Cybersecurity | System Administration | Network Defense | Cloud Fundamentals
 
 <a href="SEU_INSTAGRAM" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  href="https://www.instagram.com/eduardbo_/"
 </a>
 
 </div>
