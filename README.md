@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Eduardo Braga
 
-🎓 Computer Science Student  
-🔐 Cybersecurity & Infrastructure enthusiast  
-🐧 Linux user and automation enthusiast
+🎓 Computer Science Student | 🔐 Cybersecurity & Infrastructure enthusiast | 🐧 Linux user and automation enthusiast
 
 ## 🚀 About me
 
@@ -10,12 +8,12 @@ I'm a Computer Science student focused on **Cybersecurity, Networking and System
 
 Currently developing my skills in:
 
-- 🐧 Linux administration
-- 🔥 Bash scripting and automation
-- ⚡ PowerShell automation
-- 🌐 Computer networks
-- 🔒 Information Security fundamentals
-- 💻 Web development with JavaScript
+- Linux administration
+- Bash scripting and automation
+- PowerShell automation
+- Computer networks
+- Information Security fundamentals
+- Web development with JavaScript
 
 ## 🛠️ Technologies & Tools
 
