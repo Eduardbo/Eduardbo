@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm Eduardo Braga
 
-<!--
-**Eduardbo/Eduardbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🔐 Cybersecurity & Infrastructure enthusiast  
+🐧 Linux user and automation enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student focused on **Cybersecurity, Networking and System Administration**.
+
+Currently developing my skills in:
+
+- 🐧 Linux administration
+- 🔥 Bash scripting and automation
+- ⚡ PowerShell automation
+- 🌐 Computer networks
+- 🔒 Information Security fundamentals
+- 💻 Web development with JavaScript
+
+## 🛠️ Technologies & Tools
+
+### Operating Systems
+- Linux (Ubuntu/Kali)
+- Windows
+
+### Programming & Scripting
+- JavaScript
+- Bash
+- PowerShell
+
+### Security & Networking
+- Wireshark
+- Nmap
+- SSH
+- TCP/IP
+- Network analysis
+
+### Tools
+- Git & GitHub
+- VS Code
+- Virtual Machines
+
+## 📚 Currently learning
+
+- Cybersecurity
+- Infrastructure security
+- Network defense
+- System hardening
+- Cloud fundamentals
+
+## 🎯 Goals
+
+Build a career in **Cybersecurity and Infrastructure**, developing solutions focused on automation, security and reliable systems.
+
+---
+
+📫 Feel free to explore my repositories and follow my learning journey.
