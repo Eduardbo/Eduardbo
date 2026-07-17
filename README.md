@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
 
-# Hi there 👋, I'm Eduardo Braga
+# Olá 👋, eu sou Eduardo Braga
 
-🎓 Computer Science student focused on **Cybersecurity, Networking and Infrastructure**.
+🎓 Estudante de Ciência da Computação com foco em Segurança Cibernética, Redes de Computadores e Infraestrutura.
 
-Currently learning and building projects with:
+Atualmente estou estudando e desenvolvendo projetos com:
 
 **Linux | Bash | PowerShell | JavaScript | Networking | Information Security**
 
@@ -32,13 +32,13 @@ Currently learning and building projects with:
 
 ---
 
-## 📚 Learning
+## 📚 Atualmente Estudando
 
-Cybersecurity | System Administration | Network Defense | Cloud Fundamentals
+Segurança Cibernética | Administração de Sistemas | Defesa de Redes | Fundamentos de Computação em Nuvem
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <div>
 
