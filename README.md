@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"/>
 
-# Olá 👋, eu sou Eduardo Braga
+# Olá , eu sou Eduardo Braga
 
 🎓 Estudante de Ciência da Computação com foco em Segurança Cibernética, Redes de Computadores e Infraestrutura.
 
